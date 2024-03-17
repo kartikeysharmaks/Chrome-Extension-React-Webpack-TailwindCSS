@@ -16,3 +16,7 @@ For generating response, used setTimeout to generate response 1 sec later to mak
 
 React.js, Tailwind CSS, Node.js, Webpack
 
+
+
+https://github.com/kartikeysharmaks/Chrome-Extension-React-Webpack-TailwindCSS/assets/100989693/aa2267db-a706-4dbb-ad0a-8a0be8adb41e
+
