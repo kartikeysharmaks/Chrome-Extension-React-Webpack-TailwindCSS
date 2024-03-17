@@ -2,7 +2,7 @@
 
 Clone this git repository on your device.\
 Then open the project folder on Code Editor(VS Code).\
-Run this command to install all the dependencies inside the projcet - npm install.\
+Run this command to install all the dependencies inside the project - npm install.\
 Now one need to build the "dist" folder which will be uploaded using this command - npm run build.\
 Now upload that "dist" folder to chrome extension on google chrome.\
 For that, open chrome extension now click on "load unpacked" button and select the "dist" folder from the project.\
